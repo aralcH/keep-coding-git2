@@ -1,5 +1,7 @@
-+*TITULO BONITO*+
- 
+Versión española
+
++*TÍTULO BONITO*+
+
 *GIT* nuestro que estas en los repos 
 Comprimidos sean tus *commits* 
 Venga a nosotros tu *log* 
@@ -10,3 +12,22 @@ Como también perdonamos los de otros geeks
 No nos dejes caer en *detached HEAD* 
 y líbranos de *SVN* 
 `GIT commit --amend`
+
+------------------------------------------
+English version
+
++*PRETTY TITLE*+
+
+Our*GIT* who art in repos
+compressed be thy *commits* 
+Thy *log* will come 
+On local as it is in *remote* 
+Give us this day our daily *pull* 
+Forgive our *conflicts* 
+As we forgive those of other geeks
+Lead us not into *detached HEAD* 
+and deliver us from *SVN* 
+`GIT commit --amend`
+
+
+
